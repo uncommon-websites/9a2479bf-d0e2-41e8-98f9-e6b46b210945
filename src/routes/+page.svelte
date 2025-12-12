@@ -180,7 +180,7 @@
 				<div class="flex-1">
 					<h2 class="text-4xl md:text-6xl font-light tracking-tight mb-8 uppercase">Callie B. Elwayns</h2>
 					<p class="text-xs uppercase tracking-wide font-medium text-gray-500 mb-8">Founder & Curator</p>
-					<div class="space-y-6 text-[10px] leading-relaxed uppercase tracking-wide font-medium">
+					<div class="space-y-6 text-[14px] leading-relaxed uppercase tracking-wide font-medium">
 						<p>Callie survived homelessness as a youth, then led public companies for 20+ years. Her personal trauma journey gives her deep empathy for accomplished women hiding behind professional success, while her CEO experience proves she understands high-stakes leadership visibility.</p>
 						<p>At age 20, her lungs collapsed for the first time—a result of genetics combined with survival trauma from her homeless years. She describes living in "chronic invisibility patterns" despite outward success, feeling isolated and unseen at a core level while appearing confident and accomplished.</p>
 						<p>Through years of applied research as a trauma-informed somatic movement educator, Callie developed the Somatic Transformational Story Method™—a category-defining approach to embodied storytelling, presence, and leadership that helps women build a platform of somatic safety to be boldly visible.</p>
@@ -232,7 +232,7 @@
 		</div>
 	</main>
 
-	<footer class="px-4 md:px-8 py-12 text-[10px] font-medium uppercase tracking-wide" id="contact">
+	<footer class="px-4 md:px-8 py-12 text-[14px] font-medium uppercase tracking-wide" id="contact">
 		<div class="flex flex-col md:flex-row justify-between items-start md:items-end gap-12 md:gap-8">
 			<div class="flex flex-col gap-3">
 				<a href="#method" class="hover:opacity-60">Method</a>
@@ -255,7 +255,7 @@
 			</div>
 		</div>
 
-		<div class="flex flex-col md:flex-row justify-between items-center mt-20 pt-8 border-t border-gray-200 text-[10px] text-gray-400 gap-4">
+		<div class="flex flex-col md:flex-row justify-between items-center mt-20 pt-8 border-t border-gray-200 text-[14px] text-gray-400 gap-4">
 			<p>©BOLD & VISIBLE. ALL RIGHTS RESERVED</p>
 			<div class="flex items-center gap-1">
 				<span class="text-black text-lg font-bold tracking-tight">BOLD & VISIBLE</span>
